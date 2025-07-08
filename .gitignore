@@ -1,0 +1,12 @@
+# Node modules and build
+node_modules/
+dist/
+.cache/
+
+# Env and editor config
+.env
+.env.local
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
